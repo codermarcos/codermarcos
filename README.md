@@ -2,18 +2,18 @@
 
 If you want to interact with me you can try for any of these: 
 
-Life as coder :point_right: 
+Life as coder :point_down: 
 [![linkeind][linkedin_badge]](https://www.linkedin.com/in/codermarcos/)
 [![stackoverflow][stackoverflow_badge]](https://pt.stackoverflow.com/users/53433/codermarcos)
 [![codepen][codepen_badge]](https://codepen.io/codermarcos)
 
 
-Personal life :point_right: 
+Personal life :point_down:  
 [![steam][steam_badge]](https://steamcommunity.com/id/wolfkillerjr)
 [![counter-strike][counter-strike_badge]](https://steamcommunity.com/id/WolfKillerJr/stats/CSGO)
 [![instagram][instagram_badge]](https://www.instagram.com/codermarcos/)
 [![youtube][youtube_badge]](https://www.youtube.com/channel/UCToEsCI-W5Frqk1E_eq5LBg/)
-[![youtubemusic][youtubemusic_badge]](https://music.youtube.com/browse/UCToEsCI-W5Frqk1E_eq5LBg)
+[![youtube-music][youtube-music_badge]](https://music.youtube.com/browse/UCToEsCI-W5Frqk1E_eq5LBg)
 
 :point_left: Here there are some contacts.
 
@@ -25,5 +25,5 @@ Personal life :point_right:
 [steam_badge]: https://img.shields.io/static/v1?style=flat&logo=steam&label=steam&color=000000&message=WolfKillerJr
 [counter-strike_badge]: https://img.shields.io/static/v1?style=flat&logo=counter-strike&label=CS&color=000000&message=WolfKillerJr
 [youtube_badge]: https://img.shields.io/static/v1?style=flat&logo=youtube&label=Channel&color=FF0000&message=My%20Jumps%20
-[youtubemusic_badge]: https://img.shields.io/static/v1?style=flat&logo=youtubemusic&label=YT%20Music&color=FF0000&message=My%20Playlists%20
+[youtube-music_badge]: https://img.shields.io/static/v1?style=flat&logo=youtube-music&label=YT%20Music&color=FF0000&message=My%20Playlists%20
 [instagram_badge]: https://img.shields.io/static/v1?style=flat&logo=instagram&label=instagram&color=E4405F&message=codermarcos
