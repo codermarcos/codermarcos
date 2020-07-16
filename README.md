@@ -2,14 +2,14 @@
 
 If you want to interact with me you can try for any of these: 
 
-Life as coder :point_down:  
+## Life as coder :point_down:  
 
 [![linkeind][linkedin_badge]](https://www.linkedin.com/in/codermarcos/)
 [![stackoverflow][stackoverflow_badge]](https://pt.stackoverflow.com/users/53433/codermarcos)
 [![codepen][codepen_badge]](https://codepen.io/codermarcos)
 [![medium][medium_badge]](https://medium.com/@codermarcos)
 
-Personal life :point_down:  
+## Personal life :point_down:  
 
 [![steam][steam_badge]](https://steamcommunity.com/id/wolfkillerjr)
 [![counter-strike][counter-strike_badge]](https://steamcommunity.com/id/WolfKillerJr/stats/CSGO)
