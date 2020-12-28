@@ -1,15 +1,19 @@
 # Hello, thinking being :nerd_face:
 
+A little bit of what I've been using :point_down:
+
+![Stats](https://github-readme-stats.vercel.app/api?username=codermarcos&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codermarcos&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+
 If you want to interact with me you can try for any of these: 
 
-## Life as coder :point_down:  
+**Life as coder** :point_down:  
 
 [![linkeind][linkedin_badge]](https://www.linkedin.com/in/codermarcos/)
 [![stackoverflow][stackoverflow_badge]](https://pt.stackoverflow.com/users/53433/codermarcos)
 [![codepen][codepen_badge]](https://codepen.io/codermarcos)
 [![medium][medium_badge]](https://medium.com/@codermarcos)
 
-## Personal life :point_down:  
+**Personal life** :point_down:  
 
 [![steam][steam_badge]](https://steamcommunity.com/id/wolfkillerjr)
 [![counter-strike][counter-strike_badge]](https://steamcommunity.com/id/WolfKillerJr/stats/CSGO)
