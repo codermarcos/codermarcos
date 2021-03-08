@@ -15,8 +15,8 @@ If you want to interact with me you can try for any of these:
 
 **Personal life** :point_down:  
 
-[![steam][steam_badge]](https://steamcommunity.com/id/wolfkillerjr)
-[![counter-strike][counter-strike_badge]](https://steamcommunity.com/id/WolfKillerJr/stats/CSGO)
+[![steam][steam_badge]](https://steamcommunity.com/id/codermarcos)
+[![counter-strike][counter-strike_badge]](https://steamcommunity.com/id/codermarcos/stats/CSGO)
 [![instagram][instagram_badge]](https://www.instagram.com/codermarcos/)
 [![youtube][youtube_badge]](https://www.youtube.com/channel/UCToEsCI-W5Frqk1E_eq5LBg/)
 [![youtube-music][youtube-music_badge]](https://music.youtube.com/browse/UCToEsCI-W5Frqk1E_eq5LBg)
