@@ -28,8 +28,8 @@ If you want to interact with me you can try for any of these:
 [codepen_badge]: https://img.shields.io/static/v1?style=flat&logo=codepen&label=codepen&color=000000&message=codermarcos
 [medium_badge]: https://img.shields.io/static/v1?style=flat&logo=medium&label=Medium&color=12100E&message=codermarcos
 
-[steam_badge]: https://img.shields.io/static/v1?style=flat&logo=steam&label=steam&color=000000&message=WolfKillerJr
-[counter-strike_badge]: https://img.shields.io/static/v1?style=flat&logo=counter-strike&label=CS&color=000000&message=WolfKillerJr
+[steam_badge]: https://img.shields.io/static/v1?style=flat&logo=steam&label=steam&color=000000&message=codermarcos
+[counter-strike_badge]: https://img.shields.io/static/v1?style=flat&logo=counter-strike&label=CS&color=000000&message=codermarcos
 [youtube_badge]: https://img.shields.io/static/v1?style=flat&logo=youtube&label=Channel&color=FF0000&message=My%20Jumps%20
 [youtube-music_badge]: https://img.shields.io/static/v1?style=flat&logo=youtube-music&label=YT%20Music&color=FF0000&message=My%20Playlists%20
 [instagram_badge]: https://img.shields.io/static/v1?style=flat&logo=instagram&label=instagram&color=E4405F&message=codermarcos
