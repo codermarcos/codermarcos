@@ -2,7 +2,7 @@
 
 A little bit of what I've been using :point_down:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=codermarcos&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=15)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codermarcos&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=codermarcos&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codermarcos&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
 
 If you want to interact with me you can try for any of these: 
 
