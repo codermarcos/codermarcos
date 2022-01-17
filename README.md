@@ -10,9 +10,9 @@ If you want to interact with me you can try for any of these:
 
 [![linkeind][linkedin_badge]](https://www.linkedin.com/in/codermarcos/)
 [![stackoverflow][stackoverflow_badge]](https://pt.stackoverflow.com/users/53433/codermarcos)
+[![codewars][code_wars_badge]](https://www.codewars.com/users/codermarcos)
 [![codepen][codepen_badge]](https://codepen.io/codermarcos)
 [![medium][medium_badge]](https://medium.com/@codermarcos)
-
 **Personal life** :point_down:  
 
 [![steam][steam_badge]](https://steamcommunity.com/id/codermarcos)
@@ -27,6 +27,7 @@ If you want to interact with me you can try for any of these:
 [stackoverflow_badge]: https://img.shields.io/static/v1?style=flat&logo=stackoverflow&label=stackoverflow&color=FE7A16&message=codermarcos
 [codepen_badge]: https://img.shields.io/static/v1?style=flat&logo=codepen&label=codepen&color=000000&message=codermarcos
 [medium_badge]: https://img.shields.io/static/v1?style=flat&logo=medium&label=Medium&color=12100E&message=codermarcos
+[code_wars_badge]: https://img.shields.io/static/v1?style=flat&logo=Codewars&label=Codewars&color=12100E&message=codermarcos
 
 [steam_badge]: https://img.shields.io/static/v1?style=flat&logo=steam&label=steam&color=000000&message=codermarcos
 [counter-strike_badge]: https://img.shields.io/static/v1?style=flat&logo=counter-strike&label=CS&color=000000&message=codermarcos
