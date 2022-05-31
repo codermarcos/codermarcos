@@ -13,8 +13,10 @@ If you want to interact with me you can try for any of these:
 [![codewars][code_wars_badge]](https://www.codewars.com/users/codermarcos)
 [![codepen][codepen_badge]](https://codepen.io/codermarcos)
 [![medium][medium_badge]](https://medium.com/@codermarcos)
+
 **Personal life** :point_down:  
 
+[![discord][discord_badge]](https://discord.com/users/369646295482368001)
 [![steam][steam_badge]](https://steamcommunity.com/id/codermarcos)
 [![counter-strike][counter-strike_badge]](https://steamcommunity.com/id/codermarcos/stats/CSGO)
 [![instagram][instagram_badge]](https://www.instagram.com/codermarcos/)
@@ -29,6 +31,7 @@ If you want to interact with me you can try for any of these:
 [medium_badge]: https://img.shields.io/static/v1?style=flat&logo=medium&label=Medium&color=12100E&message=codermarcos
 [code_wars_badge]: https://img.shields.io/static/v1?style=flat&logo=Codewars&label=Codewars&color=12100E&message=codermarcos
 
+[discord_badge]: https://img.shields.io/static/v1?style=flat&logo=discord&label=discord&color=000000&message=codermarcos%236619
 [steam_badge]: https://img.shields.io/static/v1?style=flat&logo=steam&label=steam&color=000000&message=codermarcos
 [counter-strike_badge]: https://img.shields.io/static/v1?style=flat&logo=counter-strike&label=CS&color=000000&message=codermarcos
 [youtube_badge]: https://img.shields.io/static/v1?style=flat&logo=youtube&label=Channel&color=FF0000&message=My%20Jumps%20
